@@ -38,7 +38,7 @@ Durante esse projeto, os principais aprendizados foram:
 
 ## 📸 Preview
 
-![Preview do formulário](/formularios-com-html-e-css/preview-img.png) 
+![Preview do formulário](/preview-img.png) 
 
 ## 🚀 Deploy
 
