@@ -1,6 +1,6 @@
 # 📝 Formulário de Cadastro de DEVs
 
-Este projeto é um simples formulário de cadastro de desenvolvedores, construído com HTML e CSS puros.
+Este é um projeto simples e responsivo de um formulário HTML e CSS para cadastro de desenvolvedores. Criado com foco em boas práticas de estruturação, semântica e acessibilidade.
 
 ## 💡 Sobre o Projeto
 
@@ -35,6 +35,15 @@ Durante esse projeto, os principais aprendizados foram:
 - Estilização de formulário com CSS puro
 - Uso de `hover`, `focus`, `box-shadow` e `border-radius`
 - Fixação de elementos com `position: fixed` (rodapé)
+
+## 📸 Preview
+
+![Preview do formulário](/formularios-com-html-e-css/preview-img.png) 
+
+## 🚀 Deploy
+
+Acesse o projeto online pelo GitHub Pages:  
+🔗 [https://ivannatech.github.io/formularios-com-html-e-css/](https://ivannatech.github.io/formularios-com-html-e-css/)
 
 ## 📬 Contato
 
